@@ -21,3 +21,5 @@ urlpatterns = [
 ]
 """HELLLO MY DEAR"""
 """HELLOOO2"""
+
+"""HADİ BAKİM"""
